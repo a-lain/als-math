@@ -6,7 +6,7 @@ A mathematical library for C++. The file "Math.ipynb" contains good examples of 
 - bisection method, secant method, Newton-Raphson method, LU decomposition to solve linear systems (AlgebraicSolvers.hpp and AlgebraicSolvers.cpp),
 - rectangle rule, trapezoide rule, Gauss-Konrad G7-K15 integration methods (Integration.hpp and Integration.cpp),
 - average linear and quadratic interpolations, linear interpolation (Interpolation.hpp and Interpolation.cpp),
-- euler explicit mehtod, Runge-Kutta method of order 4, Runge-Kutta-Fehlberg method to solve ODEs (ODESolvers.hpp and ODESolvers.cpp).
+- euler explicit method, Runge-Kutta method of order 4, Runge-Kutta-Fehlberg method to solve ODEs (ODESolvers.hpp and ODESolvers.cpp).
 
 ## Dependencies:
 - [als-basic-utilities](https://github.com/a-lain/als-basic-utilities)
